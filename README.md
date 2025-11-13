@@ -5,15 +5,15 @@ A repository dedicated to tracking my progress in learning and understanding Dat
 ## Project Structure
 
 ```
-DSA_Optimal_Solutions/
-├── README.md
-└── com.solutions/
-├── README.md
-└── src/
-├── ArraySorted.java
-├── LargeNumArr.java
-├── RemoveDupInArray.java
-└── SecondLargestArr.java
+   DSA_Optimal_Solutions/
+    ├── README.md
+    └── com.solutions/
+        ├── README.md
+        └── src/
+            ├── ArraySorted.java
+            ├── LargeNumArr.java
+            ├── RemoveDupInArray.java
+            └── SecondLargestArr.java
 ```
 
 ## Solutions Included

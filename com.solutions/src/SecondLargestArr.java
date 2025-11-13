@@ -1,4 +1,3 @@
-package dsaCodeExamples;
 
 public class SecondLargestArr {
 
